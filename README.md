@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kkevlu
-- 👀 I’m interested in exploring my interest in software development
+- 👀 I’m interested in exploring my interest in green transportation, urbanism, and housng from a big data-informed perspective.
 - 🌱 I’m currently learning to see whether this is the right fit for me as a career. 
 
 
